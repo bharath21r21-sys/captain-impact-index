@@ -12,19 +12,19 @@ The project uses Python to analyze cricket match data and evaluate captains base
 
 We collected match data from Cricsheet, cleaned and analyzed it using Pandas and NumPy, and created visualizations using Matplotlib and Plotly. We also developed an interactive dashboard using Streamlit to display and compare the results.
 
-## Objectives of the Project :
+### Objectives of the Project :
 
 The main objective of this project is to develop a Captain Impact Index (CII) to evaluate and compare the performance of selected Indian Men's ODI cricket captains from 2005 to 2025 using data analytics.
 
-## Dataset Used :
+### Dataset Used :
 
 -< a herf = " https://cricsheet.org/downloads/odis_json.zip "
 
-## Technologies Used :
+### Technologies Used :
 
 Python, Pandas, NumPy, Matplotlib, Plotly, Streamlit, and GitHub.
  
-## Final Results :
+### Final Results :
 
 1. Rohit Sharma — 86.18
 2. Virat Kohli — 69.59
