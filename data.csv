@@ -1,0 +1,475 @@
+Match_ID,Date,Year,India,Opponent,Venue,City,Toss_Winner,Toss_Decision,Match_Winner,India_Result,Season,Match_Type,Location_Type,Captain
+64939,2005-04-05,2005,India,Pakistan,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,India,bat,India,Win,2004/05,ODI,Home,Sourav Ganguly
+64941,2005-04-12,2005,India,Pakistan,"Sardar Patel (Gujarat) Stadium, Motera",Ahmedabad,India,bat,Pakistan,Loss,2004/05,ODI,Home,Sourav Ganguly
+64942,2005-04-15,2005,India,Pakistan,Green Park,Kanpur,India,bat,Pakistan,Loss,2004/05,ODI,Home,Sourav Ganguly
+64943,2005-04-17,2005,India,Pakistan,Arun Jaitley Stadium,Delhi,Pakistan,bat,Pakistan,Loss,2004/05,ODI,Home,Sourav Ganguly
+214742,2005-07-31,2005,India,West Indies,Rangiri Dambulla International Stadium,,West Indies,bat,India,Win,2005,ODI,Overseas,Sourav Ganguly
+217481,2005-08-29,2005,India,Zimbabwe,Harare Sports Club,,Zimbabwe,field,India,Win,2005,ODI,Overseas,Sourav Ganguly
+217979,2005-09-04,2005,India,Zimbabwe,Harare Sports Club,,India,field,India,Win,2005,ODI,Overseas,Sourav Ganguly
+218250,2005-09-06,2005,India,New Zealand,Harare Sports Club,,India,bat,New Zealand,Loss,2005,ODI,Overseas,Sourav Ganguly
+223018,2005-10-25,2005,India,Sri Lanka,Vidarbha C.A. Ground,Nagpur,India,bat,India,Win,2005/06,ODI,Home,Rahul Dravid
+223334,2005-10-28,2005,India,Sri Lanka,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,India,field,India,Win,2005/06,ODI,Home,Rahul Dravid
+223902,2005-11-03,2005,India,Sri Lanka,Nehru Stadium,Pune,India,field,India,Win,2005/06,ODI,Home,Rahul Dravid
+224231,2005-11-06,2005,India,Sri Lanka,"Sardar Patel (Gujarat) Stadium, Motera",Ahmedabad,Sri Lanka,field,Sri Lanka,Loss,2005/06,ODI,Home,Rahul Dravid
+224556,2005-11-09,2005,India,Sri Lanka,Madhavrao Scindia Cricket Ground,Rajkot,India,field,India,Win,2005/06,ODI,Home,Rahul Dravid
+225437,2005-11-12,2005,India,Sri Lanka,Reliance Stadium,Vadodara,Sri Lanka,bat,India,Win,2005/06,ODI,Home,Rahul Dravid
+225959,2005-11-16,2005,India,South Africa,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,South Africa,field,South Africa,Loss,2005/06,ODI,Home,Rahul Dravid
+226359,2005-11-28,2005,India,South Africa,Wankhede Stadium,Mumbai,India,field,India,Win,2005/06,ODI,Home,Rahul Dravid
+235831,2006-02-06,2006,India,Pakistan,Arbab Niaz Stadium,Peshawar,Pakistan,field,Pakistan,Loss,2005/06,ODI,Overseas,Rahul Dravid
+236520,2006-02-11,2006,India,Pakistan,Rawalpindi Cricket Stadium,,Pakistan,bat,India,Win,2005/06,ODI,Overseas,Rahul Dravid
+236809,2006-02-13,2006,India,Pakistan,Gaddafi Stadium,Lahore,India,field,India,Win,2005/06,ODI,Overseas,Rahul Dravid
+237222,2006-02-16,2006,India,Pakistan,Multan Cricket Stadium,,India,field,India,Win,2005/06,ODI,Overseas,Rahul Dravid
+237571,2006-02-19,2006,India,Pakistan,National Stadium,Karachi,India,field,India,Win,2005/06,ODI,Overseas,Rahul Dravid
+238188,2006-03-28,2006,India,England,Feroz Shah Kotla,Delhi,England,field,India,Win,2005/06,ODI,Home,Rahul Dravid
+238189,2006-03-31,2006,India,England,Nahar Singh Stadium,Faridabad,England,bat,India,Win,2005/06,ODI,Overseas,Rahul Dravid
+238190,2006-04-03,2006,India,England,"Nehru Stadium, Fatorda",Margao,India,bat,India,Win,2005/06,ODI,Overseas,Rahul Dravid
+238193,2006-04-12,2006,India,England,Keenan Stadium,Jamshedpur,India,bat,England,Loss,2005/06,ODI,Overseas,Rahul Dravid
+238194,2006-04-15,2006,India,England,Maharani Usharaje Trust Cricket Ground,Indore,India,field,India,Win,2005/06,ODI,Home,Rahul Dravid
+244510,2006-04-18,2006,India,Pakistan,Sheikh Zayed Stadium,Abu Dhabi,India,bat,Pakistan,Loss,2005/06,ODI,Overseas,Rahul Dravid
+244511,2006-04-19,2006,India,Pakistan,Sheikh Zayed Stadium,Abu Dhabi,India,bat,India,Win,2005/06,ODI,Overseas,Rahul Dravid
+239916,2006-05-20,2006,India,West Indies,"Sabina Park, Kingston",Jamaica,India,field,West Indies,Loss,2006,ODI,Overseas,Rahul Dravid
+239917,2006-05-23,2006,India,West Indies,"Warner Park, Basseterre",St Kitts,India,bat,West Indies,Loss,2006,ODI,Overseas,Rahul Dravid
+239918,2006-05-26,2006,India,West Indies,"Queen's Park Oval, Port of Spain",Trinidad,West Indies,field,West Indies,Loss,2006,ODI,Overseas,Rahul Dravid
+239919,2006-05-28,2006,India,West Indies,"Queen's Park Oval, Port of Spain",Trinidad,India,field,West Indies,Loss,2006,ODI,Overseas,Rahul Dravid
+256665,2006-08-18,2006,India,Sri Lanka,Sinhalese Sports Club Ground,Colombo,India,bat,,Tie,2006,ODI,Overseas,Rahul Dravid
+256607,2006-09-14,2006,India,West Indies,Kinrara Academy Oval,Kuala Lumpur,India,bat,West Indies,Loss,2006/07,ODI,Overseas,Rahul Dravid
+256608,2006-09-16,2006,India,Australia,Kinrara Academy Oval,Kuala Lumpur,Australia,bat,,Tie,2006/07,ODI,Overseas,Rahul Dravid
+256612,2006-09-20,2006,India,West Indies,Kinrara Academy Oval,Kuala Lumpur,India,bat,India,Win,2006/07,ODI,Overseas,Rahul Dravid
+256614,2006-09-22,2006,India,Australia,Kinrara Academy Oval,Kuala Lumpur,Australia,bat,Australia,Loss,2006/07,ODI,Overseas,Rahul Dravid
+249745,2006-10-15,2006,India,England,Sawai Mansingh Stadium,Jaipur,India,field,India,Win,2006/07,ODI,Home,Rahul Dravid
+249753,2006-10-26,2006,India,West Indies,"Sardar Patel Stadium, Motera",Ahmedabad,West Indies,field,West Indies,Loss,2006/07,ODI,Home,Rahul Dravid
+249756,2006-10-29,2006,India,Australia,"Punjab Cricket Association Stadium, Mohali",Chandigarh,India,bat,Australia,Loss,2006/07,ODI,Home,Rahul Dravid
+249211,2006-11-22,2006,India,South Africa,Kingsmead,Durban,South Africa,bat,South Africa,Loss,2006/07,ODI,Overseas,Rahul Dravid
+249212,2006-11-26,2006,India,South Africa,Newlands,Cape Town,South Africa,bat,South Africa,Loss,2006/07,ODI,Overseas,Rahul Dravid
+249213,2006-11-29,2006,India,South Africa,St George's Park,Port Elizabeth,South Africa,bat,South Africa,Loss,2006/07,ODI,Overseas,Rahul Dravid
+249214,2006-12-03,2006,India,South Africa,SuperSport Park,Centurion,South Africa,field,South Africa,Loss,2006/07,ODI,Overseas,Virender Sehwag
+267708,2007-01-27,2007,India,West Indies,"MA Chidambaram Stadium, Chepauk",Chennai,West Indies,field,West Indies,Loss,2006/07,ODI,Home,Virender Sehwag
+267709,2007-01-31,2007,India,West Indies,Indian Petrochemicals Corporation Limited Sports Complex Ground,Vadodara,West Indies,field,India,Win,2006/07,ODI,Home,Rahul Dravid
+267710,2007-02-08,2007,India,Sri Lanka,Eden Gardens,Kolkata,India,field,,Tie,2006/07,ODI,Home,Rahul Dravid
+267712,2007-02-11,2007,India,Sri Lanka,Madhavrao Scindia Cricket Ground,Rajkot,India,field,Sri Lanka,Loss,2006/07,ODI,Home,Rahul Dravid
+267715,2007-02-14,2007,India,Sri Lanka,"Nehru Stadium, Fatorda",Margao,Sri Lanka,bat,India,Win,2006/07,ODI,Overseas,Rahul Dravid
+267713,2007-02-17,2007,India,Sri Lanka,Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium,Visakhapatnam,India,field,India,Win,2006/07,ODI,Home,Rahul Dravid
+247464,2007-03-17,2007,India,Bangladesh,"Queen's Park Oval, Port of Spain",Trinidad,India,bat,Bangladesh,Loss,2006/07,ODI,Overseas,Rahul Dravid
+247468,2007-03-19,2007,India,Bermuda,"Queen's Park Oval, Port of Spain",Trinidad,Bermuda,field,India,Win,2006/07,ODI,Overseas,Rahul Dravid
+247476,2007-03-23,2007,India,Sri Lanka,"Queen's Park Oval, Port of Spain",Trinidad,India,field,Sri Lanka,Loss,2006/07,ODI,Overseas,Rahul Dravid
+282688,2007-05-10,2007,India,Bangladesh,Shere Bangla National Stadium,Mirpur,Bangladesh,bat,India,Win,2007,ODI,Overseas,Rahul Dravid
+282689,2007-05-12,2007,India,Bangladesh,Shere Bangla National Stadium,Mirpur,India,bat,India,Win,2007,ODI,Overseas,Rahul Dravid
+293071,2007-06-23,2007,India,Ireland,"Civil Service Cricket Club, Stormont",Belfast,India,field,India,Win,2007,ODI,Overseas,Rahul Dravid
+293076,2007-06-26,2007,India,South Africa,"Civil Service Cricket Club, Stormont",Belfast,South Africa,field,South Africa,Loss,2007,ODI,Overseas,Rahul Dravid
+293077,2007-06-29,2007,India,South Africa,"Civil Service Cricket Club, Stormont",Belfast,India,field,India,Win,2007,ODI,Overseas,Rahul Dravid
+293078,2007-07-01,2007,India,South Africa,"Civil Service Cricket Club, Stormont",Belfast,India,field,India,Win,2007,ODI,Overseas,Rahul Dravid
+275789,2007-08-16,2007,India,Scotland,Titwood,Glasgow,India,field,India,Win,2007,ODI,Overseas,Rahul Dravid
+258471,2007-08-21,2007,India,England,The Rose Bowl,Southampton,India,field,England,Loss,2007,ODI,Overseas,Rahul Dravid
+258472,2007-08-24,2007,India,England,County Ground,Bristol,India,bat,India,Win,2007,ODI,Overseas,Rahul Dravid
+258473,2007-08-27,2007,India,England,Edgbaston,Birmingham,India,field,England,Loss,2007,ODI,Overseas,Rahul Dravid
+258474,2007-08-30,2007,India,England,Old Trafford,Manchester,India,bat,England,Loss,2007,ODI,Overseas,Rahul Dravid
+258475,2007-09-02,2007,India,England,Headingley,Leeds,England,field,India,Win,2007,ODI,Overseas,Rahul Dravid
+258476,2007-09-05,2007,India,England,Kennington Oval,London,England,bat,India,Win,2007,ODI,Overseas,Rahul Dravid
+258477,2007-09-08,2007,India,England,Lord's,London,India,bat,England,Loss,2007,ODI,Overseas,Rahul Dravid
+297793,2007-09-29,2007,India,Australia,M Chinnaswamy Stadium,Bangalore,Australia,bat,,Tie,2007/08,ODI,Home,MS Dhoni
+297794,2007-10-02,2007,India,Australia,Nehru Stadium,Kochi,India,field,Australia,Loss,2007/08,ODI,Home,MS Dhoni
+297795,2007-10-05,2007,India,Australia,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Australia,bat,Australia,Loss,2007/08,ODI,Home,MS Dhoni
+297796,2007-10-08,2007,India,Australia,Sector 16 Stadium,Chandigarh,India,bat,India,Win,2007/08,ODI,Home,MS Dhoni
+297797,2007-10-11,2007,India,Australia,Reliance Stadium,Vadodara,India,bat,Australia,Loss,2007/08,ODI,Home,MS Dhoni
+297798,2007-10-14,2007,India,Australia,Vidarbha Cricket Association Ground,Nagpur,Australia,bat,Australia,Loss,2007/08,ODI,Home,MS Dhoni
+297799,2007-10-17,2007,India,Australia,Wankhede Stadium,Mumbai,Australia,bat,India,Win,2007/08,ODI,Home,MS Dhoni
+297801,2007-11-05,2007,India,Pakistan,Nehru Stadium,Guwahati,Pakistan,bat,India,Win,2007/08,ODI,Home,MS Dhoni
+297802,2007-11-08,2007,India,Pakistan,"Punjab Cricket Association Stadium, Mohali",Chandigarh,India,bat,Pakistan,Loss,2007/08,ODI,Home,MS Dhoni
+297803,2007-11-11,2007,India,Pakistan,Green Park,Kanpur,Pakistan,field,India,Win,2007/08,ODI,Home,MS Dhoni
+297804,2007-11-15,2007,India,Pakistan,Captain Roop Singh Stadium,Gwalior,Pakistan,bat,India,Win,2007/08,ODI,Home,MS Dhoni
+297805,2007-11-18,2007,India,Pakistan,Sawai Mansingh Stadium,Jaipur,India,field,Pakistan,Loss,2007/08,ODI,Home,MS Dhoni
+291359,2008-02-03,2008,India,Australia,"Brisbane Cricket Ground, Woolloongabba",Brisbane,India,bat,,Tie,2007/08,ODI,Overseas,MS Dhoni
+291360,2008-02-05,2008,India,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",Brisbane,India,bat,,Tie,2007/08,ODI,Overseas,MS Dhoni
+291362,2008-02-10,2008,India,Australia,Melbourne Cricket Ground,,Australia,bat,India,Win,2007/08,ODI,Overseas,MS Dhoni
+291365,2008-02-17,2008,India,Australia,Adelaide Oval,,Australia,bat,Australia,Loss,2007/08,ODI,Overseas,MS Dhoni
+291366,2008-02-19,2008,India,Sri Lanka,Adelaide Oval,,Sri Lanka,bat,India,Win,2007/08,ODI,Overseas,MS Dhoni
+291368,2008-02-24,2008,India,Australia,Sydney Cricket Ground,,Australia,bat,Australia,Loss,2007/08,ODI,Overseas,MS Dhoni
+291369,2008-02-26,2008,India,Sri Lanka,Bellerive Oval,Hobart,India,field,India,Win,2007/08,ODI,Overseas,MS Dhoni
+291371,2008-03-02,2008,India,Australia,Sydney Cricket Ground,,Australia,bat,India,Win,2007/08,ODI,Overseas,MS Dhoni
+291372,2008-03-04,2008,India,Australia,"Brisbane Cricket Ground, Woolloongabba",Brisbane,India,bat,India,Win,2007/08,ODI,Overseas,MS Dhoni
+345469,2008-06-10,2008,India,Pakistan,Shere Bangla National Stadium,Mirpur,India,bat,India,Win,2008,ODI,Overseas,MS Dhoni
+345470,2008-06-12,2008,India,Bangladesh,Shere Bangla National Stadium,Mirpur,Bangladesh,bat,India,Win,2008,ODI,Overseas,MS Dhoni
+345471,2008-06-14,2008,India,Pakistan,Shere Bangla National Stadium,Mirpur,Pakistan,bat,Pakistan,Loss,2008,ODI,Overseas,MS Dhoni
+335349,2008-06-25,2008,India,Hong Kong,National Stadium,Karachi,India,bat,India,Win,2008,ODI,Overseas,MS Dhoni
+335351,2008-06-26,2008,India,Pakistan,National Stadium,Karachi,Pakistan,bat,India,Win,2008,ODI,Overseas,MS Dhoni
+335352,2008-06-28,2008,India,Bangladesh,National Stadium,Karachi,Bangladesh,bat,India,Win,2008,ODI,Overseas,MS Dhoni
+335355,2008-07-02,2008,India,Pakistan,National Stadium,Karachi,India,bat,Pakistan,Loss,2008,ODI,Overseas,MS Dhoni
+335356,2008-07-03,2008,India,Sri Lanka,National Stadium,Karachi,Sri Lanka,bat,India,Win,2008,ODI,Overseas,MS Dhoni
+335358,2008-07-06,2008,India,Sri Lanka,National Stadium,Karachi,India,field,Sri Lanka,Loss,2008,ODI,Overseas,MS Dhoni
+343732,2008-08-18,2008,India,Sri Lanka,Rangiri Dambulla International Stadium,,India,bat,Sri Lanka,Loss,2008,ODI,Overseas,MS Dhoni
+343733,2008-08-20,2008,India,Sri Lanka,Rangiri Dambulla International Stadium,,India,field,India,Win,2008,ODI,Overseas,MS Dhoni
+343734,2008-08-24,2008,India,Sri Lanka,R Premadasa Stadium,Colombo,India,bat,India,Win,2008,ODI,Overseas,MS Dhoni
+366341,2008-08-27,2008,India,Sri Lanka,R Premadasa Stadium,Colombo,India,bat,India,Win,2008,ODI,Overseas,MS Dhoni
+343736,2008-08-29,2008,India,Sri Lanka,R Premadasa Stadium,Colombo,Sri Lanka,bat,Sri Lanka,Loss,2008,ODI,Overseas,MS Dhoni
+361043,2008-11-14,2008,India,England,Madhavrao Scindia Cricket Ground,Rajkot,England,field,India,Win,2008/09,ODI,Home,MS Dhoni
+361044,2008-11-17,2008,India,England,Maharani Usharaje Trust Cricket Ground,Indore,India,bat,India,Win,2008/09,ODI,Home,MS Dhoni
+361045,2008-11-20,2008,India,England,Green Park,Kanpur,England,bat,India,Win,2008/09,ODI,Home,MS Dhoni
+361046,2008-11-23,2008,India,England,M Chinnaswamy Stadium,Bangalore,England,field,India,Win,2008/09,ODI,Home,MS Dhoni
+361047,2008-11-26,2008,India,England,Barabati Stadium,Cuttack,India,field,India,Win,2008/09,ODI,Home,MS Dhoni
+386530,2009-01-28,2009,India,Sri Lanka,Rangiri Dambulla International Stadium,,India,field,India,Win,2008/09,ODI,Overseas,MS Dhoni
+386531,2009-01-31,2009,India,Sri Lanka,R Premadasa Stadium,Colombo,India,bat,India,Win,2008/09,ODI,Overseas,MS Dhoni
+386532,2009-02-03,2009,India,Sri Lanka,R Premadasa Stadium,Colombo,India,bat,India,Win,2008/09,ODI,Overseas,MS Dhoni
+386533,2009-02-05,2009,India,Sri Lanka,R Premadasa Stadium,Colombo,India,bat,India,Win,2008/09,ODI,Overseas,MS Dhoni
+386534,2009-02-08,2009,India,Sri Lanka,R Premadasa Stadium,Colombo,Sri Lanka,bat,Sri Lanka,Loss,2008/09,ODI,Overseas,MS Dhoni
+366623,2009-03-03,2009,India,New Zealand,McLean Park,Napier,India,bat,India,Win,2008/09,ODI,Overseas,MS Dhoni
+366626,2009-03-06,2009,India,New Zealand,Westpac Stadium,Wellington,India,bat,,Tie,2008/09,ODI,Overseas,MS Dhoni
+366627,2009-03-08,2009,India,New Zealand,AMI Stadium,Christchurch,New Zealand,field,India,Win,2008/09,ODI,Overseas,MS Dhoni
+366624,2009-03-11,2009,India,New Zealand,Seddon Park,Hamilton,New Zealand,bat,India,Win,2008/09,ODI,Overseas,MS Dhoni
+366625,2009-03-14,2009,India,New Zealand,Eden Park,Auckland,India,bat,New Zealand,Loss,2008/09,ODI,Overseas,MS Dhoni
+377313,2009-06-26,2009,India,West Indies,"Sabina Park, Kingston",Jamaica,India,bat,India,Win,2009,ODI,Overseas,MS Dhoni
+377314,2009-06-28,2009,India,West Indies,"Sabina Park, Kingston",Jamaica,India,bat,West Indies,Loss,2009,ODI,Overseas,MS Dhoni
+377315,2009-07-03,2009,India,West Indies,"Beausejour Stadium, Gros Islet",St Lucia,India,field,India,Win,2009,ODI,Overseas,MS Dhoni
+377316,2009-07-05,2009,India,West Indies,"Beausejour Stadium, Gros Islet",St Lucia,India,field,,Tie,2009,ODI,Overseas,MS Dhoni
+403382,2009-09-11,2009,India,New Zealand,R Premadasa Stadium,Colombo,New Zealand,bat,India,Win,2009,ODI,Overseas,MS Dhoni
+403381,2009-09-12,2009,India,Sri Lanka,R Premadasa Stadium,Colombo,Sri Lanka,bat,Sri Lanka,Loss,2009,ODI,Overseas,MS Dhoni
+403383,2009-09-14,2009,India,Sri Lanka,R Premadasa Stadium,Colombo,India,bat,India,Win,2009,ODI,Overseas,MS Dhoni
+415278,2009-09-26,2009,India,Pakistan,SuperSport Park,Centurion,Pakistan,bat,Pakistan,Loss,2009/10,ODI,Overseas,MS Dhoni
+415281,2009-09-28,2009,India,Australia,SuperSport Park,Centurion,Australia,bat,,Tie,2009/10,ODI,Overseas,MS Dhoni
+415284,2009-09-30,2009,India,West Indies,New Wanderers Stadium,Johannesburg,India,field,India,Win,2009/10,ODI,Overseas,MS Dhoni
+416236,2009-10-25,2009,India,Australia,Reliance Stadium,Vadodara,Australia,bat,Australia,Loss,2009/10,ODI,Home,MS Dhoni
+416237,2009-10-28,2009,India,Australia,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Australia,field,India,Win,2009/10,ODI,Home,MS Dhoni
+416238,2009-10-31,2009,India,Australia,Feroz Shah Kotla,Delhi,Australia,bat,India,Win,2009/10,ODI,Home,MS Dhoni
+416239,2009-11-02,2009,India,Australia,"Punjab Cricket Association Stadium, Mohali",Chandigarh,India,field,Australia,Loss,2009/10,ODI,Home,MS Dhoni
+416240,2009-11-05,2009,India,Australia,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Australia,bat,Australia,Loss,2009/10,ODI,Home,MS Dhoni
+416241,2009-11-08,2009,India,Australia,Nehru Stadium,Guwahati,India,bat,Australia,Loss,2009/10,ODI,Home,MS Dhoni
+430886,2009-12-15,2009,India,Sri Lanka,Madhavrao Scindia Cricket Ground,Rajkot,Sri Lanka,field,India,Win,2009/10,ODI,Home,MS Dhoni
+430887,2009-12-18,2009,India,Sri Lanka,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,India,bat,Sri Lanka,Loss,2009/10,ODI,Home,MS Dhoni
+430888,2009-12-21,2009,India,Sri Lanka,Barabati Stadium,Cuttack,Sri Lanka,bat,India,Win,2009/10,ODI,Home,MS Dhoni
+430889,2009-12-24,2009,India,Sri Lanka,Eden Gardens,Kolkata,Sri Lanka,bat,India,Win,2009/10,ODI,Home,MS Dhoni
+430890,2009-12-27,2009,India,Sri Lanka,Feroz Shah Kotla,Delhi,India,field,,Tie,2009/10,ODI,Home,MS Dhoni
+434259,2010-01-05,2010,India,Sri Lanka,Shere Bangla National Stadium,Mirpur,Sri Lanka,field,Sri Lanka,Loss,2009/10,ODI,Overseas,MS Dhoni
+434260,2010-01-07,2010,India,Bangladesh,Shere Bangla National Stadium,Mirpur,Bangladesh,bat,India,Win,2009/10,ODI,Overseas,MS Dhoni
+434262,2010-01-10,2010,India,Sri Lanka,Shere Bangla National Stadium,Mirpur,Sri Lanka,bat,India,Win,2009/10,ODI,Overseas,MS Dhoni
+434263,2010-01-11,2010,India,Bangladesh,Shere Bangla National Stadium,Mirpur,India,field,India,Win,2009/10,ODI,Overseas,MS Dhoni
+434264,2010-01-13,2010,India,Sri Lanka,Shere Bangla National Stadium,Mirpur,Sri Lanka,field,Sri Lanka,Loss,2009/10,ODI,Overseas,MS Dhoni
+441827,2010-02-21,2010,India,South Africa,Sawai Mansingh Stadium,Jaipur,South Africa,field,India,Win,2009/10,ODI,Home,MS Dhoni
+441828,2010-02-24,2010,India,South Africa,Captain Roop Singh Stadium,Gwalior,India,bat,India,Win,2009/10,ODI,Home,MS Dhoni
+441829,2010-02-27,2010,India,South Africa,"Sardar Patel Stadium, Motera",Ahmedabad,South Africa,bat,South Africa,Loss,2009/10,ODI,Home,MS Dhoni
+452146,2010-05-28,2010,India,Zimbabwe,Queens Sports Club,Bulawayo,India,bat,Zimbabwe,Loss,2010,ODI,Overseas,Suresh Raina
+452147,2010-05-30,2010,India,Sri Lanka,Queens Sports Club,Bulawayo,India,field,India,Win,2010,ODI,Overseas,Suresh Raina
+452149,2010-06-03,2010,India,Zimbabwe,Harare Sports Club,,Zimbabwe,field,Zimbabwe,Loss,2010,ODI,Overseas,Suresh Raina
+452150,2010-06-05,2010,India,Sri Lanka,Harare Sports Club,,Sri Lanka,field,Sri Lanka,Loss,2010,ODI,Overseas,Suresh Raina
+455232,2010-06-16,2010,India,Bangladesh,Rangiri Dambulla International Stadium,,Bangladesh,bat,India,Win,2010,ODI,Overseas,Suresh Raina
+455234,2010-06-19,2010,India,Pakistan,Rangiri Dambulla International Stadium,,Pakistan,bat,India,Win,2010,ODI,Overseas,Suresh Raina
+455236,2010-06-22,2010,India,Sri Lanka,Rangiri Dambulla International Stadium,,Sri Lanka,field,Sri Lanka,Loss,2010,ODI,Overseas,Suresh Raina
+455237,2010-06-24,2010,India,Sri Lanka,Rangiri Dambulla International Stadium,,India,bat,India,Win,2010,ODI,Overseas,Suresh Raina
+456662,2010-08-10,2010,India,New Zealand,Rangiri Dambulla International Stadium,,New Zealand,bat,New Zealand,Loss,2010,ODI,Overseas,MS Dhoni
+456663,2010-08-16,2010,India,Sri Lanka,Rangiri Dambulla International Stadium,,Sri Lanka,bat,India,Win,2010,ODI,Overseas,MS Dhoni
+456666,2010-08-22,2010,India,Sri Lanka,Rangiri Dambulla International Stadium,,India,bat,Sri Lanka,Loss,2010,ODI,Overseas,MS Dhoni
+456665,2010-08-25,2010,India,New Zealand,Rangiri Dambulla International Stadium,,India,bat,India,Win,2010,ODI,Overseas,MS Dhoni
+456668,2010-08-28,2010,India,Sri Lanka,Rangiri Dambulla International Stadium,,Sri Lanka,bat,Sri Lanka,Loss,2010,ODI,Overseas,MS Dhoni
+464529,2010-10-20,2010,India,Australia,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,India,field,India,Win,2010/11,ODI,Home,MS Dhoni
+467883,2010-11-28,2010,India,New Zealand,Nehru Stadium,Guwahati,New Zealand,field,India,Win,2010/11,ODI,Home,MS Dhoni
+467884,2010-12-01,2010,India,New Zealand,Sawai Mansingh Stadium,Jaipur,India,field,India,Win,2010/11,ODI,Home,MS Dhoni
+467885,2010-12-04,2010,India,New Zealand,Reliance Stadium,Vadodara,India,field,India,Win,2010/11,ODI,Home,MS Dhoni
+467886,2010-12-07,2010,India,New Zealand,M Chinnaswamy Stadium,Bangalore,India,field,India,Win,2010/11,ODI,Home,MS Dhoni
+467887,2010-12-10,2010,India,New Zealand,"MA Chidambaram Stadium, Chepauk",Chennai,New Zealand,bat,India,Win,2010/11,ODI,Home,MS Dhoni
+463150,2011-01-12,2011,India,South Africa,Kingsmead,Durban,South Africa,bat,South Africa,Loss,2010/11,ODI,Overseas,MS Dhoni
+463151,2011-01-15,2011,India,South Africa,New Wanderers Stadium,Johannesburg,India,bat,India,Win,2010/11,ODI,Overseas,MS Dhoni
+463152,2011-01-18,2011,India,South Africa,Newlands,Cape Town,South Africa,bat,India,Win,2010/11,ODI,Overseas,MS Dhoni
+463153,2011-01-21,2011,India,South Africa,St George's Park,Port Elizabeth,South Africa,bat,South Africa,Loss,2010/11,ODI,Overseas,MS Dhoni
+463154,2011-01-23,2011,India,South Africa,SuperSport Park,Centurion,India,field,South Africa,Loss,2010/11,ODI,Overseas,MS Dhoni
+433558,2011-02-19,2011,India,Bangladesh,Shere Bangla National Stadium,Mirpur,Bangladesh,field,India,Win,2010/11,ODI,Overseas,MS Dhoni
+433568,2011-02-27,2011,India,England,M Chinnaswamy Stadium,Bangalore,India,bat,,Tie,2010/11,ODI,Home,MS Dhoni
+433578,2011-03-06,2011,India,Ireland,M Chinnaswamy Stadium,Bangalore,India,field,India,Win,2010/11,ODI,Home,MS Dhoni
+433582,2011-03-09,2011,India,Netherlands,Feroz Shah Kotla,Delhi,Netherlands,bat,India,Win,2010/11,ODI,Home,MS Dhoni
+433586,2011-03-12,2011,India,South Africa,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,India,bat,South Africa,Loss,2010/11,ODI,Home,MS Dhoni
+433599,2011-03-20,2011,India,West Indies,"MA Chidambaram Stadium, Chepauk",Chennai,India,bat,India,Win,2010/11,ODI,Home,MS Dhoni
+433601,2011-03-24,2011,India,Australia,"Sardar Patel Stadium, Motera",Ahmedabad,Australia,bat,India,Win,2010/11,ODI,Home,MS Dhoni
+433605,2011-03-30,2011,India,Pakistan,"Punjab Cricket Association Stadium, Mohali",Chandigarh,India,bat,India,Win,2010/11,ODI,Home,MS Dhoni
+433606,2011-04-02,2011,India,Sri Lanka,Wankhede Stadium,Mumbai,Sri Lanka,bat,India,Win,2010/11,ODI,Home,MS Dhoni
+489221,2011-06-06,2011,India,West Indies,"Queen's Park Oval, Port of Spain",Trinidad,West Indies,bat,India,Win,2011,ODI,Overseas,MS Dhoni
+489222,2011-06-08,2011,India,West Indies,"Queen's Park Oval, Port of Spain",Trinidad,India,field,India,Win,2011,ODI,Overseas,MS Dhoni
+489223,2011-06-11,2011,India,West Indies,"Sir Vivian Richards Stadium, North Sound",Antigua,India,field,India,Win,2011,ODI,Overseas,MS Dhoni
+489224,2011-06-13,2011,India,West Indies,"Sir Vivian Richards Stadium, North Sound",Antigua,India,field,West Indies,Loss,2011,ODI,Overseas,MS Dhoni
+489225,2011-06-16,2011,India,West Indies,"Sabina Park, Kingston",Jamaica,West Indies,field,West Indies,Loss,2011,ODI,Overseas,MS Dhoni
+474477,2011-09-03,2011,India,England,Riverside Ground,Chester-le-Street,England,field,,Tie,2011,ODI,Overseas,MS Dhoni
+474478,2011-09-06,2011,India,England,The Rose Bowl,Southampton,England,field,England,Loss,2011,ODI,Overseas,MS Dhoni
+474479,2011-09-09,2011,India,England,Kennington Oval,London,England,field,England,Loss,2011,ODI,Overseas,MS Dhoni
+474480,2011-09-11,2011,India,England,Lord's,London,England,field,,Tie,2011,ODI,Overseas,MS Dhoni
+474481,2011-09-16,2011,India,England,Sophia Gardens,Cardiff,England,field,England,Loss,2011,ODI,Overseas,MS Dhoni
+521218,2011-10-14,2011,India,England,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,India,bat,India,Win,2011/12,ODI,Home,MS Dhoni
+521219,2011-10-17,2011,India,England,Feroz Shah Kotla,Delhi,England,bat,India,Win,2011/12,ODI,Home,MS Dhoni
+521220,2011-10-20,2011,India,England,"Punjab Cricket Association Stadium, Mohali",Chandigarh,England,bat,India,Win,2011/12,ODI,Home,MS Dhoni
+521221,2011-10-23,2011,India,England,Wankhede Stadium,Mumbai,England,bat,India,Win,2011/12,ODI,Home,MS Dhoni
+521222,2011-10-25,2011,India,England,Eden Gardens,Kolkata,England,field,India,Win,2011/12,ODI,Home,MS Dhoni
+536929,2011-11-29,2011,India,West Indies,Barabati Stadium,Cuttack,India,field,India,Win,2011/12,ODI,Home,MS Dhoni
+536930,2011-12-02,2011,India,West Indies,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,India,field,India,Win,2011/12,ODI,Home,MS Dhoni
+536931,2011-12-05,2011,India,West Indies,"Sardar Patel Stadium, Motera",Ahmedabad,India,field,West Indies,Loss,2011/12,ODI,Home,MS Dhoni
+536932,2011-12-08,2011,India,West Indies,Holkar Cricket Stadium,Indore,India,bat,India,Win,2011/12,ODI,Home,MS Dhoni
+536933,2011-12-11,2011,India,West Indies,"MA Chidambaram Stadium, Chepauk",Chennai,India,bat,India,Win,2011/12,ODI,Home,MS Dhoni
+518956,2012-02-05,2012,India,Australia,Melbourne Cricket Ground,,India,field,Australia,Loss,2011/12,ODI,Overseas,MS Dhoni
+518957,2012-02-08,2012,India,Sri Lanka,Western Australia Cricket Association Ground,Perth,Sri Lanka,bat,India,Win,2011/12,ODI,Overseas,MS Dhoni
+518959,2012-02-12,2012,India,Australia,Adelaide Oval,,Australia,bat,India,Win,2011/12,ODI,Overseas,MS Dhoni
+518960,2012-02-14,2012,India,Sri Lanka,Adelaide Oval,,Sri Lanka,bat,,Tie,2011/12,ODI,Overseas,MS Dhoni
+518962,2012-02-19,2012,India,Australia,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Australia,bat,Australia,Loss,2011/12,ODI,Overseas,MS Dhoni
+518963,2012-02-21,2012,India,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Sri Lanka,bat,Sri Lanka,Loss,2011/12,ODI,Overseas,MS Dhoni
+518965,2012-02-26,2012,India,Australia,Sydney Cricket Ground,,Australia,bat,Australia,Loss,2011/12,ODI,Overseas,MS Dhoni
+518966,2012-02-28,2012,India,Sri Lanka,Bellerive Oval,Hobart,India,field,India,Win,2011/12,ODI,Overseas,MS Dhoni
+535795,2012-03-13,2012,India,Sri Lanka,Shere Bangla National Stadium,Mirpur,Sri Lanka,field,India,Win,2011/12,ODI,Overseas,MS Dhoni
+535797,2012-03-16,2012,India,Bangladesh,Shere Bangla National Stadium,Mirpur,Bangladesh,field,Bangladesh,Loss,2011/12,ODI,Overseas,MS Dhoni
+535798,2012-03-18,2012,India,Pakistan,Shere Bangla National Stadium,Mirpur,Pakistan,bat,India,Win,2011/12,ODI,Overseas,MS Dhoni
+564781,2012-07-21,2012,India,Sri Lanka,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,India,bat,India,Win,2012,ODI,Overseas,MS Dhoni
+564782,2012-07-24,2012,India,Sri Lanka,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,India,bat,Sri Lanka,Loss,2012,ODI,Overseas,MS Dhoni
+564783,2012-07-28,2012,India,Sri Lanka,R Premadasa Stadium,Colombo,Sri Lanka,bat,India,Win,2012,ODI,Overseas,MS Dhoni
+564784,2012-07-31,2012,India,Sri Lanka,R Premadasa Stadium,Colombo,Sri Lanka,bat,India,Win,2012,ODI,Overseas,MS Dhoni
+564785,2012-08-04,2012,India,Sri Lanka,Pallekele International Cricket Stadium,,India,bat,India,Win,2012,ODI,Overseas,MS Dhoni
+589308,2012-12-30,2012,India,Pakistan,"MA Chidambaram Stadium, Chepauk",Chennai,Pakistan,field,Pakistan,Loss,2012/13,ODI,Home,MS Dhoni
+589309,2013-01-03,2013,India,Pakistan,Eden Gardens,Kolkata,India,field,Pakistan,Loss,2012/13,ODI,Home,MS Dhoni
+589310,2013-01-06,2013,India,Pakistan,Feroz Shah Kotla,Delhi,India,bat,India,Win,2012/13,ODI,Home,MS Dhoni
+565812,2013-01-11,2013,India,England,Saurashtra Cricket Association Stadium,Rajkot,England,bat,England,Loss,2012/13,ODI,Home,MS Dhoni
+565813,2013-01-15,2013,India,England,Nehru Stadium,Kochi,India,bat,India,Win,2012/13,ODI,Home,MS Dhoni
+565814,2013-01-19,2013,India,England,JSCA International Stadium Complex,Ranchi,India,field,India,Win,2012/13,ODI,Home,MS Dhoni
+565815,2013-01-23,2013,India,England,"Punjab Cricket Association Stadium, Mohali",Chandigarh,India,field,India,Win,2012/13,ODI,Home,MS Dhoni
+565816,2013-01-27,2013,India,England,Himachal Pradesh Cricket Association Stadium,Dharamsala,England,field,England,Loss,2012/13,ODI,Home,MS Dhoni
+578614,2013-06-06,2013,India,South Africa,Sophia Gardens,Cardiff,South Africa,field,India,Win,2013,ODI,Overseas,MS Dhoni
+578619,2013-06-11,2013,India,West Indies,Kennington Oval,London,India,field,India,Win,2013,ODI,Overseas,MS Dhoni
+578623,2013-06-15,2013,India,Pakistan,Edgbaston,Birmingham,India,field,India,Win,2013,ODI,Overseas,MS Dhoni
+566947,2013-06-20,2013,India,Sri Lanka,Sophia Gardens,Cardiff,India,field,India,Win,2013,ODI,Overseas,MS Dhoni
+566948,2013-06-23,2013,India,England,Edgbaston,Birmingham,England,field,India,Win,2013,ODI,Overseas,MS Dhoni
+597924,2013-06-30,2013,India,West Indies,"Sabina Park, Kingston",Jamaica,West Indies,field,West Indies,Loss,2013,ODI,Overseas,MS Dhoni
+597925,2013-07-02,2013,India,Sri Lanka,"Sabina Park, Kingston",Jamaica,India,field,Sri Lanka,Loss,2013,ODI,Overseas,MS Dhoni
+597926,2013-07-05,2013,India,West Indies,"Queen's Park Oval, Port of Spain",Trinidad,West Indies,field,India,Win,2013,ODI,Overseas,MS Dhoni
+597928,2013-07-09,2013,India,Sri Lanka,"Queen's Park Oval, Port of Spain",Trinidad,Sri Lanka,field,India,Win,2013,ODI,Overseas,MS Dhoni
+597929,2013-07-11,2013,India,Sri Lanka,"Queen's Park Oval, Port of Spain",Trinidad,India,field,India,Win,2013,ODI,Overseas,MS Dhoni
+643665,2013-07-24,2013,India,Zimbabwe,Harare Sports Club,,India,field,India,Win,2013,ODI,Overseas,Virat Kohli
+643667,2013-07-26,2013,India,Zimbabwe,Harare Sports Club,,Zimbabwe,field,India,Win,2013,ODI,Overseas,Virat Kohli
+643669,2013-07-28,2013,India,Zimbabwe,Harare Sports Club,,India,field,India,Win,2013,ODI,Overseas,Virat Kohli
+643675,2013-08-01,2013,India,Zimbabwe,Queens Sports Club,Bulawayo,India,field,India,Win,2013,ODI,Overseas,Virat Kohli
+643677,2013-08-03,2013,India,Zimbabwe,Queens Sports Club,Bulawayo,India,field,India,Win,2013,ODI,Overseas,Virat Kohli
+647249,2013-10-13,2013,India,Australia,Maharashtra Cricket Association Stadium,Pune,Australia,bat,Australia,Loss,2013/14,ODI,Home,MS Dhoni
+647251,2013-10-16,2013,India,Australia,Sawai Mansingh Stadium,Jaipur,Australia,bat,India,Win,2013/14,ODI,Home,MS Dhoni
+647253,2013-10-19,2013,India,Australia,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Australia,field,Australia,Loss,2013/14,ODI,Home,MS Dhoni
+647255,2013-10-23,2013,India,Australia,JSCA International Stadium Complex,Ranchi,India,field,,Tie,2013/14,ODI,Home,MS Dhoni
+647259,2013-10-30,2013,India,Australia,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,India,field,India,Win,2013/14,ODI,Home,MS Dhoni
+647261,2013-11-02,2013,India,Australia,M Chinnaswamy Stadium,Bangalore,Australia,field,India,Win,2013/14,ODI,Home,MS Dhoni
+676529,2013-11-21,2013,India,West Indies,Nehru Stadium,Kochi,West Indies,bat,India,Win,2013/14,ODI,Home,MS Dhoni
+676531,2013-11-24,2013,India,West Indies,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,West Indies,field,West Indies,Loss,2013/14,ODI,Home,MS Dhoni
+676533,2013-11-27,2013,India,West Indies,Green Park,Kanpur,India,field,India,Win,2013/14,ODI,Home,MS Dhoni
+648651,2013-12-05,2013,India,South Africa,New Wanderers Stadium,Johannesburg,India,field,South Africa,Loss,2013/14,ODI,Overseas,MS Dhoni
+648653,2013-12-08,2013,India,South Africa,Kingsmead,Durban,India,field,South Africa,Loss,2013/14,ODI,Overseas,MS Dhoni
+648655,2013-12-11,2013,India,South Africa,SuperSport Park,Centurion,South Africa,bat,,Tie,2013/14,ODI,Overseas,MS Dhoni
+667641,2014-01-19,2014,India,New Zealand,McLean Park,Napier,India,field,New Zealand,Loss,2013/14,ODI,Overseas,MS Dhoni
+667643,2014-01-22,2014,India,New Zealand,Seddon Park,Hamilton,India,field,New Zealand,Loss,2013/14,ODI,Overseas,MS Dhoni
+667645,2014-01-25,2014,India,New Zealand,Eden Park,Auckland,India,field,,Tie,2013/14,ODI,Overseas,MS Dhoni
+667647,2014-01-28,2014,India,New Zealand,Seddon Park,Hamilton,India,bat,New Zealand,Loss,2013/14,ODI,Overseas,MS Dhoni
+667649,2014-01-31,2014,India,New Zealand,Westpac Stadium,Wellington,India,field,New Zealand,Loss,2013/14,ODI,Overseas,MS Dhoni
+710293,2014-02-26,2014,India,Bangladesh,Khan Shaheb Osman Ali Stadium,Fatullah,India,field,India,Win,2013/14,ODI,Overseas,MS Dhoni
+710297,2014-02-28,2014,India,Sri Lanka,Khan Shaheb Osman Ali Stadium,Fatullah,Sri Lanka,field,Sri Lanka,Loss,2013/14,ODI,Overseas,MS Dhoni
+710301,2014-03-02,2014,India,Pakistan,Shere Bangla National Stadium,Mirpur,Pakistan,field,Pakistan,Loss,2013/14,ODI,Overseas,MS Dhoni
+744679,2014-06-15,2014,India,Bangladesh,Shere Bangla National Stadium,Mirpur,Bangladesh,bat,India,Win,2014,ODI,Overseas,Suresh Raina
+744681,2014-06-17,2014,India,Bangladesh,Shere Bangla National Stadium,Mirpur,Bangladesh,field,India,Win,2014,ODI,Overseas,Suresh Raina
+744683,2014-06-19,2014,India,Bangladesh,Shere Bangla National Stadium,Mirpur,India,bat,,Tie,2014,ODI,Overseas,Suresh Raina
+667723,2014-08-27,2014,India,England,Sophia Gardens,Cardiff,England,field,India,Win,2014,ODI,Overseas,MS Dhoni
+667725,2014-08-30,2014,India,England,Trent Bridge,Nottingham,India,field,India,Win,2014,ODI,Overseas,MS Dhoni
+667727,2014-09-02,2014,India,England,Edgbaston,Birmingham,India,field,India,Win,2014,ODI,Overseas,MS Dhoni
+667729,2014-09-05,2014,India,England,Headingley,Leeds,India,field,England,Loss,2014,ODI,Overseas,MS Dhoni
+770121,2014-10-08,2014,India,West Indies,Nehru Stadium,Kochi,India,field,West Indies,Loss,2014/15,ODI,Home,MS Dhoni
+770123,2014-10-11,2014,India,West Indies,Feroz Shah Kotla,Delhi,India,bat,India,Win,2014/15,ODI,Home,MS Dhoni
+770127,2014-10-17,2014,India,West Indies,Himachal Pradesh Cricket Association Stadium,Dharmasala,West Indies,field,India,Win,2014/15,ODI,Overseas,MS Dhoni
+792289,2014-11-02,2014,India,Sri Lanka,Barabati Stadium,Cuttack,Sri Lanka,field,India,Win,2014/15,ODI,Home,MS Dhoni
+792291,2014-11-06,2014,India,Sri Lanka,"Sardar Patel Stadium, Motera",Ahmedabad,Sri Lanka,bat,India,Win,2014/15,ODI,Home,MS Dhoni
+792293,2014-11-09,2014,India,Sri Lanka,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Sri Lanka,bat,India,Win,2014/15,ODI,Home,MS Dhoni
+792295,2014-11-13,2014,India,Sri Lanka,Eden Gardens,Kolkata,India,bat,India,Win,2014/15,ODI,Home,MS Dhoni
+792297,2014-11-16,2014,India,Sri Lanka,JSCA International Stadium Complex,Ranchi,Sri Lanka,bat,India,Win,2014/15,ODI,Home,MS Dhoni
+754749,2015-01-18,2015,India,Australia,Melbourne Cricket Ground,,India,bat,Australia,Loss,2014/15,ODI,Overseas,MS Dhoni
+754753,2015-01-20,2015,India,England,"Brisbane Cricket Ground, Woolloongabba",Brisbane,India,bat,England,Loss,2014/15,ODI,Overseas,MS Dhoni
+754757,2015-01-26,2015,India,Australia,Sydney Cricket Ground,,Australia,field,,Tie,2014/15,ODI,Overseas,MS Dhoni
+754759,2015-01-30,2015,India,England,Western Australia Cricket Association Ground,Perth,England,field,England,Loss,2014/15,ODI,Overseas,MS Dhoni
+656405,2015-02-15,2015,India,Pakistan,Adelaide Oval,,India,bat,India,Win,2014/15,ODI,Overseas,MS Dhoni
+656423,2015-02-22,2015,India,South Africa,Melbourne Cricket Ground,,India,bat,India,Win,2014/15,ODI,Overseas,MS Dhoni
+656439,2015-02-28,2015,India,United Arab Emirates,Western Australia Cricket Association Ground,Perth,United Arab Emirates,bat,India,Win,2014/15,ODI,Overseas,MS Dhoni
+656453,2015-03-06,2015,India,West Indies,Western Australia Cricket Association Ground,Perth,West Indies,bat,India,Win,2014/15,ODI,Overseas,MS Dhoni
+656465,2015-03-10,2015,India,Ireland,Seddon Park,Hamilton,Ireland,bat,India,Win,2014/15,ODI,Overseas,MS Dhoni
+656475,2015-03-14,2015,India,Zimbabwe,Eden Park,Auckland,India,field,India,Win,2014/15,ODI,Overseas,MS Dhoni
+656485,2015-03-19,2015,India,Bangladesh,Melbourne Cricket Ground,,India,bat,India,Win,2014/15,ODI,Overseas,MS Dhoni
+656493,2015-03-26,2015,India,Australia,Sydney Cricket Ground,,Australia,bat,Australia,Loss,2014/15,ODI,Overseas,MS Dhoni
+870731,2015-06-18,2015,India,Bangladesh,Shere Bangla National Stadium,Mirpur,Bangladesh,bat,Bangladesh,Loss,2015,ODI,Overseas,MS Dhoni
+870733,2015-06-21,2015,India,Bangladesh,Shere Bangla National Stadium,Mirpur,India,bat,Bangladesh,Loss,2015,ODI,Overseas,MS Dhoni
+870735,2015-06-24,2015,India,Bangladesh,Shere Bangla National Stadium,Mirpur,Bangladesh,field,India,Win,2015,ODI,Overseas,MS Dhoni
+885959,2015-07-10,2015,India,Zimbabwe,Harare Sports Club,,Zimbabwe,field,India,Win,2015,ODI,Overseas,Ajinkya Rahane
+885965,2015-07-12,2015,India,Zimbabwe,Harare Sports Club,,Zimbabwe,field,India,Win,2015,ODI,Overseas,Ajinkya Rahane
+885967,2015-07-14,2015,India,Zimbabwe,Harare Sports Club,,Zimbabwe,field,India,Win,2015,ODI,Overseas,Ajinkya Rahane
+903593,2015-10-11,2015,India,South Africa,Green Park,Kanpur,South Africa,bat,South Africa,Loss,2015/16,ODI,Home,MS Dhoni
+903595,2015-10-14,2015,India,South Africa,Holkar Cricket Stadium,Indore,India,bat,India,Win,2015/16,ODI,Home,MS Dhoni
+903597,2015-10-18,2015,India,South Africa,Saurashtra Cricket Association Stadium,Rajkot,South Africa,bat,South Africa,Loss,2015/16,ODI,Home,MS Dhoni
+903599,2015-10-22,2015,India,South Africa,"MA Chidambaram Stadium, Chepauk",Chennai,India,bat,India,Win,2015/16,ODI,Home,MS Dhoni
+903601,2015-10-25,2015,India,South Africa,Wankhede Stadium,Mumbai,South Africa,bat,South Africa,Loss,2015/16,ODI,Home,MS Dhoni
+895807,2016-01-12,2016,India,Australia,Western Australia Cricket Association Ground,Perth,India,bat,Australia,Loss,2015/16,ODI,Overseas,MS Dhoni
+895809,2016-01-15,2016,India,Australia,"Brisbane Cricket Ground, Woolloongabba",Brisbane,India,bat,Australia,Loss,2015/16,ODI,Overseas,MS Dhoni
+895811,2016-01-17,2016,India,Australia,Melbourne Cricket Ground,,Australia,field,Australia,Loss,2015/16,ODI,Overseas,MS Dhoni
+895813,2016-01-20,2016,India,Australia,Manuka Oval,Canberra,Australia,bat,Australia,Loss,2015/16,ODI,Overseas,MS Dhoni
+895815,2016-01-23,2016,India,Australia,Sydney Cricket Ground,,India,field,India,Win,2015/16,ODI,Overseas,MS Dhoni
+1007649,2016-06-11,2016,India,Zimbabwe,Harare Sports Club,,India,field,India,Win,2016,ODI,Overseas,MS Dhoni
+1007651,2016-06-13,2016,India,Zimbabwe,Harare Sports Club,,India,field,India,Win,2016,ODI,Overseas,MS Dhoni
+1007653,2016-06-15,2016,India,Zimbabwe,Harare Sports Club,,Zimbabwe,bat,India,Win,2016,ODI,Overseas,MS Dhoni
+1030219,2016-10-16,2016,India,New Zealand,Himachal Pradesh Cricket Association Stadium,Dharmasala,India,field,India,Win,2016/17,ODI,Overseas,MS Dhoni
+1030221,2016-10-20,2016,India,New Zealand,Feroz Shah Kotla,Delhi,India,field,New Zealand,Loss,2016/17,ODI,Home,MS Dhoni
+1030223,2016-10-23,2016,India,New Zealand,"Punjab Cricket Association Stadium, Mohali",Chandigarh,India,field,India,Win,2016/17,ODI,Home,MS Dhoni
+1030225,2016-10-26,2016,India,New Zealand,JSCA International Stadium Complex,Ranchi,New Zealand,bat,New Zealand,Loss,2016/17,ODI,Home,MS Dhoni
+1030227,2016-10-29,2016,India,New Zealand,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,India,bat,India,Win,2016/17,ODI,Home,MS Dhoni
+1034819,2017-01-15,2017,India,England,Maharashtra Cricket Association Stadium,Pune,India,field,India,Win,2016/17,ODI,Home,Virat Kohli
+1034821,2017-01-19,2017,India,England,Barabati Stadium,Cuttack,England,field,India,Win,2016/17,ODI,Home,Virat Kohli
+1034823,2017-01-22,2017,India,England,Eden Gardens,Kolkata,India,field,England,Loss,2016/17,ODI,Home,Virat Kohli
+1022353,2017-06-04,2017,India,Pakistan,Edgbaston,Birmingham,Pakistan,field,India,Win,2017,ODI,Overseas,Virat Kohli
+1022361,2017-06-08,2017,India,Sri Lanka,Kennington Oval,London,Sri Lanka,field,Sri Lanka,Loss,2017,ODI,Overseas,Virat Kohli
+1022367,2017-06-11,2017,India,South Africa,Kennington Oval,London,India,field,India,Win,2017,ODI,Overseas,Virat Kohli
+1022373,2017-06-15,2017,India,Bangladesh,Edgbaston,Birmingham,India,field,India,Win,2017,ODI,Overseas,Virat Kohli
+1022375,2017-06-18,2017,India,Pakistan,Kennington Oval,London,India,field,Pakistan,Loss,2017,ODI,Overseas,Virat Kohli
+1098206,2017-06-23,2017,India,West Indies,"Queen's Park Oval, Port of Spain",Trinidad,West Indies,field,,Tie,2017,ODI,Overseas,Virat Kohli
+1098207,2017-06-25,2017,India,West Indies,"Queen's Park Oval, Port of Spain",Trinidad,West Indies,field,India,Win,2017,ODI,Overseas,Virat Kohli
+1098208,2017-06-30,2017,India,West Indies,"Sir Vivian Richards Stadium, North Sound",Antigua,West Indies,field,India,Win,2017,ODI,Overseas,Virat Kohli
+1098209,2017-07-02,2017,India,West Indies,"Sir Vivian Richards Stadium, North Sound",Antigua,West Indies,bat,West Indies,Loss,2017,ODI,Overseas,Virat Kohli
+1098210,2017-07-06,2017,India,West Indies,"Sabina Park, Kingston",Jamaica,West Indies,bat,India,Win,2017,ODI,Overseas,Virat Kohli
+1109605,2017-08-20,2017,India,Sri Lanka,Rangiri Dambulla International Stadium,,India,field,India,Win,2017,ODI,Overseas,Virat Kohli
+1109606,2017-08-24,2017,India,Sri Lanka,Pallekele International Cricket Stadium,,India,field,India,Win,2017,ODI,Overseas,Virat Kohli
+1109607,2017-08-27,2017,India,Sri Lanka,Pallekele International Cricket Stadium,,Sri Lanka,bat,India,Win,2017,ODI,Overseas,Virat Kohli
+1109608,2017-08-31,2017,India,Sri Lanka,"R.Premadasa Stadium, Khettarama",Colombo,India,bat,India,Win,2017,ODI,Overseas,Virat Kohli
+1109609,2017-09-03,2017,India,Sri Lanka,"R.Premadasa Stadium, Khettarama",Colombo,Sri Lanka,bat,India,Win,2017,ODI,Overseas,Virat Kohli
+1119496,2017-09-17,2017,India,Australia,"MA Chidambaram Stadium, Chepauk",Chennai,India,bat,India,Win,2017/18,ODI,Home,Virat Kohli
+1119497,2017-09-21,2017,India,Australia,Eden Gardens,Kolkata,India,bat,India,Win,2017/18,ODI,Home,Virat Kohli
+1119498,2017-09-24,2017,India,Australia,Holkar Cricket Stadium,Indore,Australia,bat,India,Win,2017/18,ODI,Home,Virat Kohli
+1119499,2017-09-28,2017,India,Australia,M.Chinnaswamy Stadium,Bengaluru,Australia,bat,Australia,Loss,2017/18,ODI,Home,Virat Kohli
+1119500,2017-10-01,2017,India,Australia,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Australia,bat,India,Win,2017/18,ODI,Home,Virat Kohli
+1120090,2017-10-22,2017,India,New Zealand,Wankhede Stadium,Mumbai,India,bat,New Zealand,Loss,2017/18,ODI,Home,Virat Kohli
+1120091,2017-10-25,2017,India,New Zealand,Maharashtra Cricket Association Stadium,Pune,New Zealand,bat,India,Win,2017/18,ODI,Home,Virat Kohli
+1120092,2017-10-29,2017,India,New Zealand,Green Park,Kanpur,New Zealand,field,India,Win,2017/18,ODI,Home,Virat Kohli
+1122726,2017-12-10,2017,India,Sri Lanka,Himachal Pradesh Cricket Association Stadium,Dharamsala,Sri Lanka,field,Sri Lanka,Loss,2017/18,ODI,Home,Virat Kohli
+1122727,2017-12-13,2017,India,Sri Lanka,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Sri Lanka,field,India,Win,2017/18,ODI,Home,Virat Kohli
+1122728,2017-12-17,2017,India,Sri Lanka,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,India,field,India,Win,2017/18,ODI,Home,Virat Kohli
+1122279,2018-02-01,2018,India,South Africa,Kingsmead,Durban,South Africa,bat,India,Win,2017/18,ODI,Overseas,Virat Kohli
+1122280,2018-02-04,2018,India,South Africa,SuperSport Park,Centurion,India,field,India,Win,2017/18,ODI,Overseas,Virat Kohli
+1122281,2018-02-07,2018,India,South Africa,Newlands,Cape Town,South Africa,field,India,Win,2017/18,ODI,Overseas,Virat Kohli
+1122282,2018-02-10,2018,India,South Africa,The Wanderers Stadium,Johannesburg,India,bat,South Africa,Loss,2017/18,ODI,Overseas,Virat Kohli
+1122283,2018-02-13,2018,India,South Africa,St George's Park,Port Elizabeth,South Africa,field,India,Win,2017/18,ODI,Overseas,Virat Kohli
+1122284,2018-02-16,2018,India,South Africa,SuperSport Park,Centurion,India,field,India,Win,2017/18,ODI,Overseas,Virat Kohli
+1119546,2018-07-12,2018,India,England,Trent Bridge,Nottingham,India,field,India,Win,2018,ODI,Overseas,Virat Kohli
+1119547,2018-07-14,2018,India,England,Lord's,London,England,bat,England,Loss,2018,ODI,Overseas,Virat Kohli
+1119548,2018-07-17,2018,India,England,Headingley,Leeds,England,field,England,Loss,2018,ODI,Overseas,Virat Kohli
+1153246,2018-09-18,2018,India,Hong Kong,Dubai International Cricket Stadium,,Hong Kong,field,India,Win,2018,ODI,Overseas,Rohit Sharma
+1153247,2018-09-19,2018,India,Pakistan,Dubai International Cricket Stadium,,Pakistan,bat,India,Win,2018,ODI,Overseas,Rohit Sharma
+1153249,2018-09-21,2018,India,Bangladesh,Dubai International Cricket Stadium,,India,field,India,Win,2018,ODI,Overseas,Rohit Sharma
+1153251,2018-09-23,2018,India,Pakistan,Dubai International Cricket Stadium,,Pakistan,bat,India,Win,2018,ODI,Overseas,Rohit Sharma
+1153255,2018-09-28,2018,India,Bangladesh,Dubai International Cricket Stadium,,India,field,India,Win,2018,ODI,Overseas,Rohit Sharma
+1157754,2018-10-21,2018,India,West Indies,Barsapara Cricket Stadium,Guwahati,India,field,India,Win,2018/19,ODI,Home,Virat Kohli
+1157755,2018-10-24,2018,India,West Indies,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,India,bat,,Tie,2018/19,ODI,Home,Virat Kohli
+1157756,2018-10-27,2018,India,West Indies,Maharashtra Cricket Association Stadium,Pune,India,field,West Indies,Loss,2018/19,ODI,Home,Virat Kohli
+1157757,2018-10-29,2018,India,West Indies,Brabourne Stadium,Mumbai,India,bat,India,Win,2018/19,ODI,Home,Virat Kohli
+1157758,2018-11-01,2018,India,West Indies,Greenfield International Stadium,Thiruvananthapuram,West Indies,bat,India,Win,2018/19,ODI,Home,Virat Kohli
+1144997,2019-01-12,2019,India,Australia,Sydney Cricket Ground,Sydney,Australia,bat,Australia,Loss,2018/19,ODI,Overseas,Virat Kohli
+1144998,2019-01-15,2019,India,Australia,Adelaide Oval,Adelaide,Australia,bat,India,Win,2018/19,ODI,Overseas,Virat Kohli
+1144999,2019-01-18,2019,India,Australia,Melbourne Cricket Ground,Melbourne,India,field,India,Win,2018/19,ODI,Overseas,Virat Kohli
+1153691,2019-01-23,2019,India,New Zealand,McLean Park,Napier,New Zealand,bat,India,Win,2018/19,ODI,Overseas,Virat Kohli
+1153692,2019-01-26,2019,India,New Zealand,Bay Oval,Mount Maunganui,India,bat,India,Win,2018/19,ODI,Overseas,Virat Kohli
+1153693,2019-01-28,2019,India,New Zealand,Bay Oval,Mount Maunganui,New Zealand,bat,India,Win,2018/19,ODI,Overseas,Virat Kohli
+1153694,2019-01-31,2019,India,New Zealand,Seddon Park,Hamilton,New Zealand,field,New Zealand,Loss,2018/19,ODI,Overseas,Virat Kohli
+1153695,2019-02-03,2019,India,New Zealand,Westpac Stadium,Wellington,India,bat,India,Win,2018/19,ODI,Overseas,Virat Kohli
+1168242,2019-03-02,2019,India,Australia,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Australia,bat,India,Win,2018/19,ODI,Home,Virat Kohli
+1168243,2019-03-05,2019,India,Australia,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Australia,field,India,Win,2018/19,ODI,Home,Virat Kohli
+1168244,2019-03-08,2019,India,Australia,JSCA International Stadium Complex,Ranchi,India,field,Australia,Loss,2018/19,ODI,Home,Virat Kohli
+1168245,2019-03-10,2019,India,Australia,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,India,bat,Australia,Loss,2018/19,ODI,Home,Virat Kohli
+1168246,2019-03-13,2019,India,Australia,Arun Jaitley Stadium,Delhi,Australia,bat,Australia,Loss,2018/19,ODI,Home,Virat Kohli
+1144490,2019-06-05,2019,India,South Africa,The Rose Bowl,Southampton,South Africa,bat,India,Win,2019,ODI,Overseas,Virat Kohli
+1144496,2019-06-09,2019,India,Australia,Kennington Oval,London,India,bat,India,Win,2019,ODI,Overseas,Virat Kohli
+1144504,2019-06-16,2019,India,Pakistan,Old Trafford,Manchester,Pakistan,field,India,Win,2019,ODI,Overseas,Virat Kohli
+1144516,2019-06-27,2019,India,West Indies,Old Trafford,Manchester,India,bat,India,Win,2019,ODI,Overseas,Virat Kohli
+1144520,2019-06-30,2019,India,England,Edgbaston,Birmingham,England,bat,England,Loss,2019,ODI,Overseas,Virat Kohli
+1144522,2019-07-02,2019,India,Bangladesh,Edgbaston,Birmingham,India,bat,India,Win,2019,ODI,Overseas,Virat Kohli
+1144526,2019-07-06,2019,India,Sri Lanka,Headingley,Leeds,Sri Lanka,bat,India,Win,2019,ODI,Overseas,Virat Kohli
+1144528,2019-07-09,2019,India,New Zealand,Old Trafford,Manchester,New Zealand,bat,New Zealand,Loss,2019,ODI,Overseas,Virat Kohli
+1188624,2019-08-08,2019,India,West Indies,"Providence Stadium, Guyana",Providence,India,field,,Tie,2019,ODI,Overseas,Virat Kohli
+1188625,2019-08-11,2019,India,West Indies,"Queen's Park Oval, Trinidad",Port of Spain,India,bat,India,Win,2019,ODI,Overseas,Virat Kohli
+1188626,2019-08-14,2019,India,West Indies,"Queen's Park Oval, Trinidad",Port of Spain,West Indies,bat,India,Win,2019,ODI,Overseas,Virat Kohli
+1187021,2019-12-15,2019,India,West Indies,"MA Chidambaram Stadium, Chepauk",Chennai,West Indies,field,West Indies,Loss,2019/20,ODI,Home,Virat Kohli
+1187022,2019-12-18,2019,India,West Indies,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,West Indies,field,India,Win,2019/20,ODI,Home,Virat Kohli
+1187023,2019-12-22,2019,India,West Indies,Barabati Stadium,Cuttack,India,field,India,Win,2019/20,ODI,Home,Virat Kohli
+1187027,2020-01-14,2020,India,Australia,Wankhede Stadium,Mumbai,Australia,field,Australia,Loss,2019/20,ODI,Home,Virat Kohli
+1187028,2020-01-17,2020,India,Australia,Saurashtra Cricket Association Stadium,Rajkot,Australia,field,India,Win,2019/20,ODI,Home,Virat Kohli
+1187029,2020-01-19,2020,India,Australia,M.Chinnaswamy Stadium,Bengaluru,Australia,bat,India,Win,2019/20,ODI,Home,Virat Kohli
+1187682,2020-02-05,2020,India,New Zealand,Seddon Park,Hamilton,New Zealand,field,New Zealand,Loss,2019/20,ODI,Overseas,Virat Kohli
+1187683,2020-02-08,2020,India,New Zealand,Eden Park,Auckland,India,field,New Zealand,Loss,2019/20,ODI,Overseas,Virat Kohli
+1187684,2020-02-11,2020,India,New Zealand,Bay Oval,Mount Maunganui,New Zealand,field,New Zealand,Loss,2019/20,ODI,Overseas,Virat Kohli
+1223955,2020-11-27,2020,India,Australia,Sydney Cricket Ground,,Australia,bat,Australia,Loss,2020/21,ODI,Overseas,Virat Kohli
+1223956,2020-11-29,2020,India,Australia,Sydney Cricket Ground,,Australia,bat,Australia,Loss,2020/21,ODI,Overseas,Virat Kohli
+1223957,2020-12-02,2020,India,Australia,Manuka Oval,Canberra,India,bat,India,Win,2020/21,ODI,Overseas,Virat Kohli
+1243393,2021-03-23,2021,India,England,Maharashtra Cricket Association Stadium,Pune,England,field,India,Win,2020/21,ODI,Home,Virat Kohli
+1243394,2021-03-26,2021,India,England,Maharashtra Cricket Association Stadium,Pune,England,field,England,Loss,2020/21,ODI,Home,Virat Kohli
+1243395,2021-03-28,2021,India,England,Maharashtra Cricket Association Stadium,Pune,England,field,India,Win,2020/21,ODI,Home,Virat Kohli
+1262755,2021-07-18,2021,India,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka,bat,India,Win,2021,ODI,Overseas,Shikhar Dhawan
+1262756,2021-07-20,2021,India,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka,bat,India,Win,2021,ODI,Overseas,Shikhar Dhawan
+1262757,2021-07-23,2021,India,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,India,bat,Sri Lanka,Loss,2021,ODI,Overseas,Shikhar Dhawan
+1277082,2022-01-19,2022,India,South Africa,"Boland Park, Paarl",Paarl,South Africa,bat,South Africa,Loss,2021/22,ODI,Overseas,KL Rahul
+1277083,2022-01-21,2022,India,South Africa,"Boland Park, Paarl",Paarl,India,bat,South Africa,Loss,2021/22,ODI,Overseas,KL Rahul
+1277084,2022-01-23,2022,India,South Africa,"Newlands, Cape Town",Cape Town,India,field,South Africa,Loss,2021/22,ODI,Overseas,KL Rahul
+1278676,2022-02-06,2022,India,West Indies,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,India,field,India,Win,2021/22,ODI,Home,Rohit Sharma
+1278677,2022-02-09,2022,India,West Indies,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,West Indies,field,India,Win,2021/22,ODI,Home,Rohit Sharma
+1278678,2022-02-11,2022,India,West Indies,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,India,bat,India,Win,2021/22,ODI,Home,Rohit Sharma
+1276907,2022-07-12,2022,India,England,"Kennington Oval, London",London,India,field,India,Win,2022,ODI,Overseas,Rohit Sharma
+1276908,2022-07-14,2022,India,England,"Lord's, London",London,India,field,England,Loss,2022,ODI,Overseas,Rohit Sharma
+1276909,2022-07-17,2022,India,England,"Old Trafford, Manchester",Manchester,India,field,India,Win,2022,ODI,Overseas,Rohit Sharma
+1317900,2022-07-22,2022,India,West Indies,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,West Indies,field,India,Win,2022,ODI,Overseas,Shikhar Dhawan
+1317901,2022-07-24,2022,India,West Indies,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,West Indies,bat,India,Win,2022,ODI,Overseas,Shikhar Dhawan
+1317902,2022-07-27,2022,India,West Indies,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,India,bat,India,Win,2022,ODI,Overseas,Shikhar Dhawan
+1325549,2022-08-18,2022,India,Zimbabwe,Harare Sports Club,Harare,India,field,India,Win,2022,ODI,Overseas,Shikhar Dhawan
+1325550,2022-08-20,2022,India,Zimbabwe,Harare Sports Club,Harare,India,field,India,Win,2022,ODI,Overseas,Shikhar Dhawan
+1325551,2022-08-22,2022,India,Zimbabwe,Harare Sports Club,Harare,India,bat,India,Win,2022,ODI,Overseas,Shikhar Dhawan
+1327509,2022-10-06,2022,India,South Africa,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,India,field,South Africa,Loss,2022/23,ODI,Home,Shikhar Dhawan
+1327510,2022-10-09,2022,India,South Africa,"JSCA International Stadium Complex, Ranchi",Ranchi,South Africa,bat,India,Win,2022/23,ODI,Home,Shikhar Dhawan
+1327511,2022-10-11,2022,India,South Africa,"Arun Jaitley Stadium, Delhi",Delhi,India,field,India,Win,2022/23,ODI,Home,Shikhar Dhawan
+1322278,2022-11-25,2022,India,New Zealand,"Eden Park, Auckland",Auckland,New Zealand,field,New Zealand,Loss,2022/23,ODI,Overseas,Shikhar Dhawan
+1322279,2022-11-27,2022,India,New Zealand,"Seddon Park, Hamilton",Hamilton,New Zealand,field,,Tie,2022/23,ODI,Overseas,Shikhar Dhawan
+1322280,2022-11-30,2022,India,New Zealand,"Hagley Oval, Christchurch",Christchurch,New Zealand,field,,Tie,2022/23,ODI,Overseas,Shikhar Dhawan
+1340845,2022-12-04,2022,India,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh,field,Bangladesh,Loss,2022/23,ODI,Overseas,KL Rahul
+1340846,2022-12-07,2022,India,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh,bat,Bangladesh,Loss,2022/23,ODI,Overseas,KL Rahul
+1340847,2022-12-10,2022,India,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Bangladesh,field,India,Win,2022/23,ODI,Overseas,KL Rahul
+1348643,2023-01-10,2023,India,Sri Lanka,"Barsapara Cricket Stadium, Guwahati",Guwahati,Sri Lanka,field,India,Win,2022/23,ODI,Home,Rohit Sharma
+1348644,2023-01-12,2023,India,Sri Lanka,"Eden Gardens, Kolkata",Kolkata,Sri Lanka,bat,India,Win,2022/23,ODI,Home,Rohit Sharma
+1348645,2023-01-15,2023,India,Sri Lanka,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,India,bat,India,Win,2022/23,ODI,Home,Rohit Sharma
+1348646,2023-01-18,2023,India,New Zealand,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,India,bat,India,Win,2022/23,ODI,Home,Rohit Sharma
+1348647,2023-01-21,2023,India,New Zealand,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,India,field,India,Win,2022/23,ODI,Overseas,Rohit Sharma
+1348648,2023-01-24,2023,India,New Zealand,"Holkar Cricket Stadium, Indore",Indore,New Zealand,field,India,Win,2022/23,ODI,Home,Rohit Sharma
+1348656,2023-03-17,2023,India,Australia,"Wankhede Stadium, Mumbai",Mumbai,India,field,India,Win,2022/23,ODI,Home,Rohit Sharma
+1348657,2023-03-19,2023,India,Australia,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Australia,field,Australia,Loss,2022/23,ODI,Home,Rohit Sharma
+1348658,2023-03-22,2023,India,Australia,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Australia,bat,Australia,Loss,2022/23,ODI,Home,Rohit Sharma
+1381214,2023-07-27,2023,India,West Indies,"Kensington Oval, Bridgetown, Barbados",Bridgetown,India,field,India,Win,2023,ODI,Overseas,Shikhar Dhawan
+1381215,2023-07-29,2023,India,West Indies,"Kensington Oval, Bridgetown, Barbados",Bridgetown,West Indies,field,West Indies,Loss,2023,ODI,Overseas,Shikhar Dhawan
+1381216,2023-08-01,2023,India,West Indies,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,West Indies,field,India,Win,2023,ODI,Overseas,Shikhar Dhawan
+1388394,2023-09-02,2023,India,Pakistan,Pallekele International Cricket Stadium,Kandy,India,bat,,Tie,2023,ODI,Overseas,Rohit Sharma
+1388398,2023-09-04,2023,India,Nepal,Pallekele International Cricket Stadium,Kandy,India,field,India,Win,2023,ODI,Overseas,Rohit Sharma
+1388406,2023-09-10,2023,India,Pakistan,"R Premadasa Stadium, Colombo",Colombo,Pakistan,field,India,Win,2023,ODI,Overseas,Rohit Sharma
+1388407,2023-09-12,2023,India,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,India,bat,India,Win,2023,ODI,Overseas,Rohit Sharma
+1388412,2023-09-15,2023,India,Bangladesh,"R Premadasa Stadium, Colombo",Colombo,India,field,Bangladesh,Loss,2023,ODI,Overseas,Rohit Sharma
+1388414,2023-09-17,2023,India,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka,bat,India,Win,2023,ODI,Overseas,Rohit Sharma
+1389388,2023-09-22,2023,India,Australia,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,India,field,India,Win,2023/24,ODI,Home,KL Rahul
+1389389,2023-09-24,2023,India,Australia,"Holkar Cricket Stadium, Indore",Indore,Australia,field,India,Win,2023/24,ODI,Home,KL Rahul
+1389390,2023-09-27,2023,India,Australia,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,Australia,bat,Australia,Loss,2023/24,ODI,Home,KL Rahul
+1384396,2023-10-08,2023,India,Australia,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Australia,bat,India,Win,2023/24,ODI,Home,Rohit Sharma
+1384403,2023-10-14,2023,India,Pakistan,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,India,field,India,Win,2023/24,ODI,Home,Rohit Sharma
+1384408,2023-10-19,2023,India,Bangladesh,"Maharashtra Cricket Association Stadium, Pune",Pune,Bangladesh,bat,India,Win,2023/24,ODI,Home,Rohit Sharma
+1384412,2023-10-22,2023,India,New Zealand,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,India,field,India,Win,2023/24,ODI,Home,Rohit Sharma
+1384420,2023-10-29,2023,India,England,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,England,field,India,Win,2023/24,ODI,Home,Rohit Sharma
+1384424,2023-11-02,2023,India,Sri Lanka,"Wankhede Stadium, Mumbai",Mumbai,Sri Lanka,field,India,Win,2023/24,ODI,Home,Rohit Sharma
+1384428,2023-11-05,2023,India,South Africa,"Eden Gardens, Kolkata",Kolkata,India,bat,India,Win,2023/24,ODI,Home,Rohit Sharma
+1384436,2023-11-12,2023,India,Netherlands,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,India,bat,India,Win,2023/24,ODI,Home,Rohit Sharma
+1384437,2023-11-15,2023,India,New Zealand,"Wankhede Stadium, Mumbai",Mumbai,India,bat,India,Win,2023/24,ODI,Home,Rohit Sharma
+1384439,2023-11-19,2023,India,Australia,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Australia,field,Australia,Loss,2023/24,ODI,Home,Rohit Sharma
+1387600,2023-12-17,2023,India,South Africa,"The Wanderers Stadium, Johannesburg",Johannesburg,South Africa,bat,India,Win,2023/24,ODI,Overseas,KL Rahul
+1387601,2023-12-19,2023,India,South Africa,"St George's Park, Gqeberha",Gqeberha,South Africa,field,South Africa,Loss,2023/24,ODI,Overseas,KL Rahul
+1387602,2023-12-21,2023,India,South Africa,"Boland Park, Paarl",Paarl,South Africa,field,India,Win,2023/24,ODI,Overseas,KL Rahul
+1442990,2024-08-02,2024,India,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka,bat,,Tie,2024,ODI,Overseas,Rohit Sharma
+1442991,2024-08-04,2024,India,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka,bat,Sri Lanka,Loss,2024,ODI,Overseas,Rohit Sharma
+1442992,2024-08-07,2024,India,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka,bat,Sri Lanka,Loss,2024,ODI,Overseas,Rohit Sharma
+1439904,2025-02-06,2025,India,England,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,England,bat,India,Win,2024/25,ODI,Home,Rohit Sharma
+1439905,2025-02-09,2025,India,England,"Barabati Stadium, Cuttack",Cuttack,England,bat,India,Win,2024/25,ODI,Home,Rohit Sharma
+1439906,2025-02-12,2025,India,England,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,England,field,India,Win,2024/25,ODI,Home,Rohit Sharma
+1466415,2025-02-20,2025,India,Bangladesh,Dubai International Cricket Stadium,Dubai,Bangladesh,bat,India,Win,2024/25,ODI,Overseas,Rohit Sharma
+1466418,2025-02-23,2025,India,Pakistan,Dubai International Cricket Stadium,Dubai,Pakistan,bat,India,Win,2024/25,ODI,Overseas,Rohit Sharma
+1466425,2025-03-02,2025,India,New Zealand,Dubai International Cricket Stadium,Dubai,New Zealand,field,India,Win,2024/25,ODI,Overseas,Rohit Sharma
+1466426,2025-03-04,2025,India,Australia,Dubai International Cricket Stadium,Dubai,Australia,bat,India,Win,2024/25,ODI,Overseas,Rohit Sharma
+1466428,2025-03-09,2025,India,New Zealand,Dubai International Cricket Stadium,Dubai,New Zealand,bat,India,Win,2024/25,ODI,Overseas,Rohit Sharma
+1478904,2025-10-19,2025,India,Australia,Perth Stadium,Perth,Australia,field,Australia,Loss,2025/26,ODI,Overseas,Shubman Gill
+1478905,2025-10-23,2025,India,Australia,Adelaide Oval,Adelaide,Australia,field,Australia,Loss,2025/26,ODI,Overseas,Shubman Gill
+1478906,2025-10-25,2025,India,Australia,Sydney Cricket Ground,Sydney,Australia,bat,India,Win,2025/26,ODI,Overseas,Shubman Gill
+1479573,2025-11-30,2025,India,South Africa,"JSCA International Stadium Complex, Ranchi",Ranchi,South Africa,field,India,Win,2025/26,ODI,Home,Shubman Gill
+1479574,2025-12-03,2025,India,South Africa,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,South Africa,field,South Africa,Loss,2025/26,ODI,Overseas,Shubman Gill
+1479575,2025-12-06,2025,India,South Africa,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,India,field,India,Win,2025/26,ODI,Home,Shubman Gill
